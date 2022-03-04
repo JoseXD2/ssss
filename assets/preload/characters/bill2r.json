@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Full Bill Phase 2 Idle"
+		},
+		{
+			"offsets": [
+				163,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bill Full left0"
+		},
+		{
+			"offsets": [
+				53,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Full Bill Down0"
+		},
+		{
+			"offsets": [
+				-31,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bill Up Full0"
+		},
+		{
+			"offsets": [
+				-85,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Full Bill Right0"
+		},
+		{
+			"offsets": [
+				57,
+				79
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Pull +"
+		},
+		{
+			"offsets": [
+				-44,
+				77
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Pull X"
+		},
+		{
+			"offsets": [
+				97,
+				264
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "SpawnPull +"
+		},
+		{
+			"offsets": [
+				106,
+				107
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SpawnPull X"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bill2r",
+	"position": [
+		60,
+		40
+	],
+	"healthicon": "bill",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		250,
+		84
+	],
+	"camera_position": [
+		20,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

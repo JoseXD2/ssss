@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "bfshut idle"
+		},
+		{
+			"offsets": [
+				25,
+				2
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bfshut left0"
+		},
+		{
+			"offsets": [
+				7,
+				-21
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bfshut down0"
+		},
+		{
+			"offsets": [
+				-17,
+				22
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bfshut up0"
+		},
+		{
+			"offsets": [
+				-10,
+				7
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bfshut right0"
+		},
+		{
+			"offsets": [
+				25,
+				2
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bfshut left miss"
+		},
+		{
+			"offsets": [
+				7,
+				-21
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bfshut down miss"
+		},
+		{
+			"offsets": [
+				-17,
+				22
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bfshut up miss"
+		},
+		{
+			"offsets": [
+				-10,
+				7
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bfshut right miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				29
+			],
+			"anim": "dodge",
+			"fps": 18,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-4
+			],
+			"anim": "unlock",
+			"fps": 18,
+			"name": "boyfriend unlock",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfshut",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		215,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

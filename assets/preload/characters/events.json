@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "phase3",
+		"player1": "bfr",
+		"player2": "NGbill",
+		"player3": null,
+		"events": [
+			[
+				110742.857142857,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfshut"
+					]
+				]
+			],
+			[
+				138942.857142857,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfr"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-car",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "WeirdIncarnate"
+	}
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bill Idle"
+		},
+		{
+			"offsets": [
+				83,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bill Left0"
+		},
+		{
+			"offsets": [
+				23,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bill Down0"
+		},
+		{
+			"offsets": [
+				39,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bill Up0"
+		},
+		{
+			"offsets": [
+				-5,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bill Right0"
+		},
+		{
+			"offsets": [
+				207,
+				264
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Leanback"
+		},
+		{
+			"offsets": [
+				-44,
+				107
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ShadowBill SPrite"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bill",
+	"position": [
+		60,
+		180
+	],
+	"healthicon": "bill",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		250,
+		84
+	],
+	"camera_position": [
+		20,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
